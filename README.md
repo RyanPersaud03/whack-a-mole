@@ -1,4 +1,4 @@
-# Memory Game
+# Whack-a-mole
 
 ## Table of Contents
 
