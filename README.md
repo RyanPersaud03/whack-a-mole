@@ -16,7 +16,7 @@ This is a simple and fun web-based game where you play the classic whac-a-mole g
 
 ## Live Link
 
-https://RyanPersaud03.github.io/whac-a-mole/
+https://ryanpersaud03.github.io/whack-a-mole/
 
 ## Features
 
